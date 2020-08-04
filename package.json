@@ -38,7 +38,7 @@
   },
   "git": {
     "scripts": {
-      "pre-push": "surge --project ./ --todolist-reacthook.surge.sh example-githooks.surge.sh"
+      "pre-push": "surge --project ./ --todolist-reacthook-githooks.surge.sh"
     }
   }
 }
