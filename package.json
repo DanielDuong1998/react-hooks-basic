@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "git-scripts": "^0.4.3",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "surge": "^0.21.6"
   },
   "git": {
